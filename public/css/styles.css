@@ -1,0 +1,92 @@
+body {
+	font-family:Open Sans, sans-serif;
+	background-color:white;
+	margin: 0;
+}
+
+#main-header {
+  background: linear-gradient(rgba(0,0,0,0), rgba(113, 34, 109, 0.16));
+  background-color:white;
+  border-bottom: 1px solid #71226d;
+  float: left;
+  width: 100%; 
+  position: fixed; 
+  z-index: 10;
+  padding-bottom: 14px;
+  opacity: 100%; 
+
+}
+
+#cuerpo{
+	position: relative;
+    padding: 0px;
+    margin-left: 10%;
+}
+
+#general{
+	position: relative;
+    padding: 0px;
+    padding-left: 10%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#logo{
+	margin-left: 0px;
+	padding-top: 12px;
+}
+
+#route{
+	width:100%;
+	clear:both;
+	
+}
+#container{
+	text-align:center;
+	width:90%;
+	margin: 0 auto;
+}
+#cuadro{
+	margin-top: 40px;
+	width:160px;
+	float:left;
+}
+#icon{
+	width:40px;
+	height:40px;
+}
+#icon-text{
+	width:160; 
+	valign:top; 
+	margin-top: 10px;
+	font-family:Open Sans, sans-serif;
+	font-size:12px;
+}
+
+#intro {
+	color:#71226d;
+	font-size:26px;
+}
+
+
+#footer{
+	background-color: rgb(113, 34, 109); 
+	color: rgb(255, 255, 255); 
+	background-position: 0% -80px;
+	width: auto;
+    position: relative;
+    margin: 0 auto;
+    height: 100px;
+}
+
+#copyright{ 
+	align:center;
+}
+
+#footerContainer{
+	align:center;
+}
+
+#pad{
+	padding-top: 50px;
+}
