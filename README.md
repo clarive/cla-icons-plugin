@@ -14,7 +14,7 @@ directory in Clarive's platform.
 Once the plugin is installed and ready for its use, you can start using it by
 going to your web browser and type the next url:
 
-    {Clarive-URI}/plugin/{plugin-Folder-Name}/show-icons
+    {Clarive-URI}/plugin/icons-plugin/show-icons
 
 The plugin will automatically look for all icons in the platform available for
 their use, and show them sorted by folder and alphabetically.
