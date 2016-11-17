@@ -9,6 +9,8 @@ alphabetically.
 To install the plugin place the icons-plugin folder inside `CLARIVE_BASE/plugins`
 directory in Clarive's platform.
 
+Rename the folder downloaded to `icons-plugin` so you will have `CLARIVE_BASE/plugins/icons-plugin`.
+
 ## How to use
 
 Once the plugin is installed and ready for its use, you can start using it by
