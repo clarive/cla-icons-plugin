@@ -45,7 +45,7 @@ reg.controller('show-icons', {
 
         directorySearch(iconsPath);
 
-        var template = fs.slurp(claBase + "/plugins/icons-plugin/templates/index.tpl");
+        var template = fs.slurp(claBase + "/plugins/cla-icons-plugin/templates/index.tpl");
         var compiledTemplate = hs.compile(template);
 
         res.body(
