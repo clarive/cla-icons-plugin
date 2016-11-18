@@ -4,7 +4,7 @@
     Clarive Icons</title>
 
 <head>
-    <link rel="stylesheet" type="text/css" href="/plugin/icons-plugin/css/styles.css">
+    <link rel="stylesheet" type="text/css" href="/plugin/cla-icons-plugin/css/styles.css">
 </head>
 
 <body>
