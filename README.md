@@ -17,5 +17,5 @@ going to your web browser and type the next url:
 
     {Clarive-URI}/plugin/cla-icons-plugin/show-icons
 
-The plugin will automatically look for all icons in the platform available for
-their use, and show them sorted by folder and alphabetically.
+The plugin will automatically look for all icons available for
+their use in Clarive, and show them sorted by folder and alphabetically.
